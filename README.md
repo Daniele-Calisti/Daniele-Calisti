@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daniele-Calisti
 - 👀 I’m interested in programming, most in web development and mobile development
-- 🌱 I’m currently learning some framwoks to develop cross-platform applications, suchs as React native
+- 🌱 I’m currently learning some frameworks to develop cross-platform applications, suchs as React native
 - 📫 How to reach me daniele.calisti@euservice.it
 
 <!---
